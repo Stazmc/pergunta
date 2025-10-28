@@ -1,1 +1,1 @@
-https://github.com/Stazmc/pergunta.git
+https://github.com/Stazmc/pergunta
